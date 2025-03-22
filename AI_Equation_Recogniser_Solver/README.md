@@ -104,4 +104,3 @@ Cloudflare will provide a public URL, making it easy to test from anywhere or in
 ## ✅ Future Enhancements:
 
 - Add **Graph plotting of equations as base64 images**.
-- Integrate with frontend dashboard.
