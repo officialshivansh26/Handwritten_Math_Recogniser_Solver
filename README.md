@@ -77,8 +77,6 @@ This project is licensed under the **MIT License**.
 ## 🤝 Contributing
 We welcome contributions! Feel free to **fork** the repo, create a feature branch, and submit a PR.
 
-## 📬 Contact
-For queries, reach out via **your.email@example.com** or open an issue.
 
 ---
 🚀 **Transforming handwritten math recognition with AI!**
