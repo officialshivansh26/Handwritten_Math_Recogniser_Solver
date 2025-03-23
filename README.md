@@ -3,6 +3,10 @@
 ## 🌐 Live Website
 Check out the live version of our project here: **[AI-Powered Math Solver](https://v0-ai-powered-math-theme.vercel.app/)**
 
+![Screenshot](assets/Draw_equation.jpg)
+![Screenshot](assets/Upload_image.jpg)
+![Screenshot](assets/Website_home.jpg)
+
 ## 🚀 Project Overview
 This project aims to develop an AI-powered system that can **recognize and solve handwritten math expressions** from images. The model accurately detects numbers and mathematical symbols, solves the equations, and provides a step-by-step explanation. The system is deployed as a **responsive web application** with a draw feature for user-friendly interaction.
 
